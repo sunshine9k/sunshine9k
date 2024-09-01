@@ -1,3 +1,7 @@
+git clone https://github.com/pralinkhaira/Insta-Cypher
+tor
+cd Insta-Cypher
+chmod +x insta.sh
 
 
 <!---
